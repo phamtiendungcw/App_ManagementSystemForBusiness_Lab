@@ -12,7 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\Product_DAL\Product_DAL.csproj" />
+    <ProjectReference Include="..\Product_DTO\Product_DTO.csproj" />
   </ItemGroup>
 
 </Project>
