@@ -1,9 +1,9 @@
-﻿using Auth.Data;
+﻿using App_ManagementSystemForBusiness_Auth.Data;
 using Auth_DAL;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace Auth.Controllers
+namespace App_ManagementSystemForBusiness_Auth.Controllers
 {
     [Route("api/auth/[controller]")]
     [ApiController]

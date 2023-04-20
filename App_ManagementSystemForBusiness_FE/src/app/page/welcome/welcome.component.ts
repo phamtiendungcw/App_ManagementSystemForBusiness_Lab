@@ -1,10 +1,13 @@
-import { Component } from '@angular/core';
+/*
+ * Copyright (c) 2023 Phạm Tiến Dũng.
+ * License: MIT
+ */
+
+import { Component } from "@angular/core";
 
 @Component({
-  selector: 'app-welcome',
-  templateUrl: './welcome.component.html',
-  styleUrls: ['./welcome.component.css']
+  selector: "app-welcome",
+  templateUrl: "./welcome.component.html",
+  styleUrls: ["./welcome.component.css"],
 })
-export class WelcomeComponent {
-
-}
+export class WelcomeComponent {}

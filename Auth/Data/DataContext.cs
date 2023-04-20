@@ -1,7 +1,7 @@
 ﻿using Auth_DAL;
 using Microsoft.EntityFrameworkCore;
 
-namespace Auth.Data
+namespace App_ManagementSystemForBusiness_Auth.Data
 {
     public class DataContext : DbContext
     {
